@@ -11,5 +11,11 @@
   width:100%;
   margin:0;
   padding:0;
-  position:fixed; top:0; left:0;
+  position:relative; top:0; left:0;
+}
+#probBar{
+  position:relative;left:0;
+  height:5%;
+  width:100%;
+  background-color:green;
 }
