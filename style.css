@@ -4,6 +4,7 @@
   margin: 0;
   padding:0;
   box-sizing:border-box;
+  object-fit:contain;
 }
 #welImg{
   height:100%;
@@ -11,5 +12,4 @@
   margin:0;
   padding:0;
   position:fixed; top:0; left:0;
-  object-fit:contain;
 }
