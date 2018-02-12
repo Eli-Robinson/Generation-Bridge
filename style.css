@@ -13,6 +13,7 @@
   padding:0;
   position:relative;left:0;
   box-sizing:border-box;
+  border: 1px black;
 }
 #probBar{
   height:5%;
