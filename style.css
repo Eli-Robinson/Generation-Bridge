@@ -3,7 +3,8 @@
   width:100%;
   margin: 0;
   padding:0;
-  position:relative;left:0;
+  position:absolute;left:0;
+  z-index:2;
 }
 #welImg{
   height:100%;
@@ -11,6 +12,7 @@
   margin:0;
   padding:0;
   position:relative;left:0;
+  z-index:1;
 }
 #probBar{
   height:5%;
