@@ -4,6 +4,7 @@
   margin: 0;
   padding:0;
   object-fit:cover;
+  position:absolute;left:0;
 }
 #welImg{
   height:100%;
