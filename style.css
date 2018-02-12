@@ -3,7 +3,6 @@
   width:100%;
   margin: 0;
   padding:0;
-  object-fit:cover;
   position:relative;left:0;
 }
 #welImg{
@@ -12,8 +11,6 @@
   margin:0;
   padding:0;
   position:relative;left:0;
-  box-sizing:border-box;
-  border: 1px black;
 }
 #probBar{
   height:5%;
