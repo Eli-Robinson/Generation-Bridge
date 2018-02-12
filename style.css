@@ -1,3 +1,6 @@
+#outter{
+  position:absolute;
+}
 #mainImg{
   height:100%;
   width:100%;
@@ -14,7 +17,7 @@
   position:absolute; top:0; left:0;
 }
 #probBar{
-  position:relative;left:0;
+  position:absolute;left:0;
   height:5%;
   width:100%;
   background-color:green;
