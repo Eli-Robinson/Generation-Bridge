@@ -14,3 +14,10 @@
   position:absolute;left:0;
   background-color:green;
 }
+#probState{
+  height:50%;
+  width:100%;
+  amrgin:0;
+  padding:20px;
+  position:absolute;left:0;
+}
