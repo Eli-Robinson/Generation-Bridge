@@ -20,6 +20,7 @@ body{
   position:relative;left:0;top:0;
 }
 #probState{
+  padding: 20px;
   position:relative;
-  font-size:large;
+  font-size:40px;;
 }
