@@ -21,6 +21,7 @@ body{
 }
 #probState{
   padding: 20px;
+  background-color:#E0ECD6;
   position:relative;
   font-size:40px;;
 }
