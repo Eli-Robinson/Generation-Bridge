@@ -25,3 +25,9 @@ body{
   position:relative;
   font-size:40px;;
 }
+#probBar{
+  height:5%;
+  background-color:green;
+  margin:0;
+  padding:0;
+}
