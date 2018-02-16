@@ -13,6 +13,7 @@ body{
   height:100%;
   position:relative;
   object-fit:cover;
+  background-color:black;
 }
 #welImg{
   padding:0;
